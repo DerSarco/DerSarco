@@ -10,7 +10,7 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 👨🏽‍💼 Administrator in Discord Server [Los Androides](https://discord.gg/kKXccQVK6t) Gabi Moreno Vanguard.
 - 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) (13.5K PEOPLE OMG!) Nicolas Schurmann believer.
 
-You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#0256 😊
+You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#1111 😊
 
 <div>
   <center>

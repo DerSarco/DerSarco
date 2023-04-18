@@ -20,7 +20,7 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - ⚡ Languages: Javascript, Java, Kotlin, a bit of Dart.
 - 👨🏽‍💼 Administrator in Discord Server and Video Editor for [Los Androides](https://discord.gg/kKXccQVK6t) Gabi Moreno Vanguard.
 - 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) (15.5K PEOPLE OMG!) Nicolas Schurmann believer.
-- Twitch Moderator for [AristiDevs](https://www.twitch.tv/aristidevs)
+- 🧑🏽‍⚖️ Twitch Moderator for [AristiDevs](https://www.twitch.tv/aristidevs)
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#1111 😊
 

@@ -1,6 +1,8 @@
 # Carlos Muñoz  
 [![Linkedin Badge](https://img.shields.io/badge/-cmunozbustamante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
 
+<img src="https://raw.githubusercontent.com/DerSarco/curriculums/main/banner.jpeg">
+
 ## Hello there 👋, (General Kenobi...) 
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts and share memes on instagram. 
 

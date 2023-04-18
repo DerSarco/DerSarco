@@ -19,7 +19,7 @@ You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#1
 
 <p align="center">
 <a href="https://github.com/DerSarco">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DerSarco&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DerSarco&layout=compact&langs_count=8&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DerSarco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DerSarco&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>

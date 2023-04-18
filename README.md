@@ -3,6 +3,9 @@
 <img src="https://raw.githubusercontent.com/DerSarco/curriculums/main/banner.jpeg">
 
 [![Linkedin Badge](https://img.shields.io/badge/-cmunozbustamante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
+<a href="https://twitter.com/dersarco">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />   
+</a>
 
 ## Hello there 👋, (General Kenobi...) 
 I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts and share memes on instagram. 

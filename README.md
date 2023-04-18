@@ -2,9 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/DerSarco/curriculums/main/banner.jpeg">
 
-[![Linkedin Badge](https://img.shields.io/badge/-cmunozbustamante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/cmunozbustamante/)](https://www.linkedin.com/in/cmunozbustamante/)
+<a href="https://www.linkedin.com/in/cmunozbustamante/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
 <a href="https://twitter.com/dersarco">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />   
+</a>
+<a href="https://discord.gg/kKXccQVK6t">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  
 </a>
 
 ## Hello there 👋, (General Kenobi...) 

@@ -17,7 +17,7 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 
 # What do you need to know about me 👀
 
-- 📱 I’m an Android Developer at Globant
+- 📱 I’m an Android Developer
 - 💬 Ask me about: memes, games or anime.
 - ⚡ Languages: Kotlin, a bit of Dart, JS and a very old Java style.
 - 👨🏽‍💼 Administrator in Discord Server and Video Editor for [Los Androides](https://discord.gg/kKXccQVK6t) Gabi Moreno vanguard.

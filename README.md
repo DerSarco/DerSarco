@@ -24,7 +24,7 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 👨🏽‍💼 Administrator in Discord Server [Hola Mundo](https://discord.gg/pjAykXA6KK) (15.5K PEOPLE OMG!) Nicolas Schurmann believer.
 - 🧑🏽‍⚖️ Twitch Moderator for [AristiDevs](https://www.twitch.tv/aristidevs)
 
-You love Kotlin in Android? Add me on Discord and chat with me :) -> Der Sarco#1111 😊
+You love Kotlin in Android? Add me on Discord and chat with me :) -> dersarco 😊
 
 # Github Analytics
 

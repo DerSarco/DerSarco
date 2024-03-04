@@ -20,7 +20,6 @@ I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, r
 - 📱 I’m an Android Developer
 - 💬 Ask me about: memes, games or anime.
 - ⚡ Languages: Kotlin, a bit of Dart, JS and a very old Java style.
-- 👨🏽‍💼 Administrator in Discord Server for [Los Androides](https://discord.gg/kKXccQVK6t) Gabi Moreno vanguard.
 - 🧑🏽‍⚖️ Twitch Moderator for [AristiDevs](https://www.twitch.tv/aristidevs)
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> dersarco 😊

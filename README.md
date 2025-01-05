@@ -13,13 +13,15 @@
 </a>
 
 ## Hello there 👋, (General Kenobi...) 
-I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read medium posts, share interesting things on LinkedIn, make code snippets for the people and share memes on Discord.
+I'm Carlos Muñoz, I'm a software developer 👨‍💻 i love learn new tech, read books, share interesting things on LinkedIn, make code snippets for the people and share memes on Discord.
 
 # What do you need to know about me 👀
 
 - 📱 I’m an Android Developer
 - 💬 Ask me about: memes, games or anime.
 - ⚡ Languages: Kotlin, a bit of Dart, JS and a very old Java style.
+- 🧑🏽‍⚖️ Discord Admin of [Hola Mundo](https://discord.gg/ghqcEAmvxG)
+- 🧑🏽‍⚖️ Discord Admin of [Los Androides](https://discord.gg/kKXccQVK6t)
 - 🧑🏽‍⚖️ Twitch Moderator for [AristiDevs](https://www.twitch.tv/aristidevs)
 
 You love Kotlin in Android? Add me on Discord and chat with me :) -> dersarco 😊
